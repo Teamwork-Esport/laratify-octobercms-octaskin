@@ -1,21 +1,13 @@
-# Octaskin
-Free Modern and Clean OctoberCMS Theme based on Materialize CSS.
+# Pentaskin
+Free Modern and Clean Gaming Clan OctoberCMS Theme based on Octaskin. Enhanced for use by Gaming Clans.
 
 ### Demo
-- Laratify Demo - http://demo.laratify.com/octobercms/?theme=octaskin
+- Demo - http://tw-esport.de (Will be up soon)
 
 ### Credits
 - OctoberCMS - https://octobercms.com/
 - Materialize CSS - http://materializecss.com/
-
-### Thank You for Using Laratify Themes!
-
-If you like Octaskin, please rate it 5 stars here:
-https://octobercms.com/theme/laratify-octobercms-octaskin
-
-- Laratify - http://www.laratify.com/
-- Twitter: https://twitter.com/laratify
-- Facebook: https://www.facebook.com/laratify
+- Octaskin - https://octobercms.com/theme/laratify-octobercms-octaskin
 
 ### Changelog
 - **1.0.0: First version of Octaskin theme (Aug 24, 2016).**
@@ -31,3 +23,4 @@ https://octobercms.com/theme/laratify-octobercms-octaskin
   - Added more sample demo pages
 - **2.0.1: Fixed wrong partial path on default layout (Sep 01, 2016)**
 - **2.1.0: Redo the partial subdirectory structure due to OctoberCMS limitation (Sep 01, 2016)**
+- **3.0.0: Rename to Pentaskin**

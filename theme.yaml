@@ -1,6 +1,6 @@
-name: "Octaskin"
-description: "Free Modern and Clean OctoberCMS Theme based on Materialize CSS."
-author: Laratify
-homepage: "https://www.laratify.com/"
-code: octobercms-octaskin
+name: "Pentaskin"
+description: "Free Modern and Clean Gaming Clan OctoberCMS Theme based on Octaskin. Enhanced for use by Gaming Clans."
+author: Teamwork-Esport
+homepage: "https://tw-esport.de"
+code: pentaskin
 form: config/fields.yaml

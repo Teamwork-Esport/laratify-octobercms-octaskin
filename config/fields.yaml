@@ -9,40 +9,34 @@ tabs:
       tab: Info
       label: Website Name
       type: text
-      default: Octaskin
+      default: OctoberCMS
 
     website_author:
       tab: Info
       label: Author
       type: text
-      default: Laratify
+      default: Teamwork-Esport
 
     website_url:
       tab: Info
       label: URL
       type: text
-      default: "http://demo.laratify.dev/octobercms/?theme=octaskin"
+      default: "http://localhost"
 
     description:
       tab: Info
       label: Description
       type: textarea
-      default: "Free Modern and Clean OctoberCMS Theme based on Materialize CSS."
+      default: ""
 
     keywords:
       tab: Info
       label: Keywords
       type: taglist
       separator: comma
-      default: octaskin,laratify,october,octobercms,themes,templates,free octobercms themes
+      default: ""
       options:
-        - octaskin
-        - laratify
-        - october
-        - octobercms
-        - themes
-        - templates
-        - free octobercms themes
+
 
     ####################################################
     # Tab: Assets
@@ -118,7 +112,7 @@ tabs:
       label: Primary Color
       type: colorpicker
       availableColors: ["#f44336","#9c27b0","#2196f3","#cddc39","#ffc107","#607d8b","#808080","#383838","#000000","#ffffff"]
-      default: "#ff5722"
+      default: "#2196f3"
       assetVar: "lt-primary-color"
 
     secondary_color:
@@ -126,7 +120,7 @@ tabs:
       label: Secondary Color
       type: colorpicker
       availableColors: ["#f44336","#9c27b0","#2196f3","#cddc39","#ffc107","#607d8b","#808080","#383838","#000000","#ffffff"]
-      default: "#2196f3"
+      default: "#ffeb3b"
       assetVar: "lt-secondary-color"
 
     navigation_background_color:
